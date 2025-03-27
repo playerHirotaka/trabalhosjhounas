@@ -1,0 +1,39 @@
+body {
+    width: 100%;
+    height: 700px;
+    background: rgb(0, 95, 79);
+}
+
+.imagem {
+    padding-top: 20px;
+    padding-left: 40%;
+}
+
+pre {
+    font-size: 30px;
+}
+
+.principal {
+    padding-left: 30px;
+    padding-right: 50px;
+    font-size: 20px;
+    padding-top: 20px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    border-radius: 50px;
+    color: rgb(0, 0, 0);
+    background-color: white;
+    width: 600px;
+    height: 700px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.texto {
+
+    color: black;
+}
